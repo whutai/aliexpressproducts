@@ -1,5 +1,11 @@
 export const productList = [
   {
+    name: "Tape Measure",
+    afflink: "https://s.click.aliexpress.com/e/_9I3Sbf",
+    imglink:
+      "//ae01.alicdn.com/kf/H3da6cd03d3994b44b336568b901219f06.jpg_350x350.jpg"
+  },
+  {
     name: "Balloon Dog Statue",
     afflink: "https://s.click.aliexpress.com/e/_98aDc5",
     imglink:
