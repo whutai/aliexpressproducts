@@ -24,18 +24,11 @@ export const productList = [
       "//ae01.alicdn.com/kf/H067410ae9c9d42479123df77b5d841c83.jpg_350x350.jpg"
   },
   {
-    name: "Mini Heat Sealer ",
-    afflink: "https://s.click.aliexpress.com/e/_AEu5g9",
-    imglink:
-      "//ae01.alicdn.com/kf/H0f1653dbf69b492e8ce32e6140de512fh.jpg_350x350.jpg"
-  },
-  {
     name: "French Bulldog Coin ",
     afflink: "https://s.click.aliexpress.com/e/_AZ21nF",
     imglink:
       "//ae01.alicdn.com/kf/HLB19V.CNNTpK1RjSZFKq6y2wXXaZ.jpg_140x140.jpg"
   },
-
   {
     name: "Cute Dog Sculpture",
     afflink: "https://s.click.aliexpress.com/e/_ArMamd",
@@ -59,6 +52,30 @@ export const productList = [
     afflink: "https://s.click.aliexpress.com/e/_9jQMjX",
     imglink:
       "//ae01.alicdn.com/kf/Hc3bef6f878aa4f65aa3f87e1d24e0e23o.jpg_350x350.jpg"
+  },
+  {
+    name: "Pet Dog Bed",
+    afflink: "https://s.click.aliexpress.com/e/_9j4vsl",
+    imglink:
+      "//ae01.alicdn.com/kf/S5e41a22af5ac4150a7f6188fba280fcfW.jpg_350x350.jpg"
+  },
+  {
+    name: "Custom Doormat Personalized",
+    afflink: "https://s.click.aliexpress.com/e/_AZ8CCp",
+    imglink:
+      "//ae01.alicdn.com/kf/Hffd78b2443bd436587185be5fdeeae0bB.jpg_350x350.jpg"
+  },
+  {
+    name: "3D Printed Pitbull",
+    afflink: "https://s.click.aliexpress.com/e/_9QmIH3",
+    imglink:
+      "//ae01.alicdn.com/kf/Hde8d2519c5a44890a45cf4391340bd91B.jpg_350x350.jpg"
+  },
+  {
+    name: "Nylon Dog Collar",
+    afflink: "https://s.click.aliexpress.com/e/_9uz7T3",
+    imglink:
+      "//ae01.alicdn.com/kf/HTB1S83ea1L2gK0jSZPhq6yhvXXa5.jpg_350x350.jpg"
   }
 ];
 export const toolList = [
