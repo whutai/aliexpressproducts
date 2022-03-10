@@ -96,4 +96,6 @@ input {
 }
 .imglink {
   border-radius: 1rem;
+  width: 140px;
+  height: 140px;
 }
