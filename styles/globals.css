@@ -58,10 +58,7 @@ input {
   border-radius: 1rem;
   width: calc(50% - 0.5rem);
   margin-top: 1rem;
-}
-
-.product-item p {
-  margin-left: 5px;
+  padding-top: 1rem;
 }
 
 .product-text {
@@ -94,9 +91,13 @@ input {
 .input-content {
   position: relative;
 }
+.afflink {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 5px;
+}
 .imglink {
   border-radius: 1rem;
   width: 140px;
   height: 140px;
-  margin-left: 8px;
 }
