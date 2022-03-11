@@ -100,6 +100,30 @@ export default function Home() {
               loader={<div class="dashed-loading"></div>}
               className="product-list"
             >
+              <div className="product-item">
+                <a
+                  href="https://86ec059s5xo3f3d-s5kl83we1r.hop.clickbank.net/?tid=HTAI"
+                  target="_blank"
+                  className="afflink"
+                >
+                  <img src="./dogtraining.png" className="imglink" />
+                </a>
+                <div className="product-text">
+                  <p>Eliminate Bad Behavior Your dog</p>
+                </div>
+              </div>
+              <div className="product-item">
+                <a
+                  href="https://5860094j32mu73fcsbtmv6w6vo.hop.clickbank.net/?tid=DIETHT"
+                  target="_blank"
+                  className="afflink"
+                >
+                  <img src="./diet.png" className="imglink" />
+                </a>
+                <div className="product-text">
+                  <p>The Smoothie Diet</p>
+                </div>
+              </div>
               {listProduct.map((item, index) => (
                 <div className="product-item" key={index}>
                   <a href={item.afflink} target="_blank" className="afflink">
