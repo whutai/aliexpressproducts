@@ -82,6 +82,12 @@ export const productList = [
     afflink: "https://s.click.aliexpress.com/e/_9uz7T3",
     imglink:
       "//ae01.alicdn.com/kf/HTB1S83ea1L2gK0jSZPhq6yhvXXa5.jpg_350x350.jpg"
+  },
+  {
+    name: "Portable Electric Juicer",
+    afflink: "https://s.click.aliexpress.com/e/_9hwvLT",
+    imglink:
+      "//ae01.alicdn.com/kf/H67b630ad317b48b0a2b7940a6305b2c2k.jpg_350x350.jpg"
   }
 ];
 export const toolList = [

@@ -100,6 +100,18 @@ export default function Home() {
               loader={<div class="dashed-loading"></div>}
               className="product-list"
             >
+              <div className="product-item">
+                <a
+                  href="https://s.click.aliexpress.com/e/_9j0ZaJ"
+                  target="_blank"
+                  className="afflink"
+                >
+                  <img src="./toy.png" className="imglink" alt="Toys" />
+                </a>
+                <div className="product-text">
+                  <p>18+ Improve Sex Life</p>
+                </div>
+              </div>
               {listProduct.map((item, index) => (
                 <div className="product-item" key={index}>
                   <a href={item.afflink} target="_blank" className="afflink">
