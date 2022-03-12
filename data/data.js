@@ -99,6 +99,12 @@ export const productList = [
 ];
 export const toolList = [
   {
+    name: "Egg Shaker",
+    afflink: "https://s.click.aliexpress.com/e/_AD8SJ5",
+    imglink:
+      "/ae01.alicdn.com/kf/H36e9461f420f453db3291dcb168ccde7i.png_80x80.png"
+  },
+  {
     name: "Newest Labor Saving",
     afflink: "https://s.click.aliexpress.com/e/_Anh8Hh",
     imglink:
