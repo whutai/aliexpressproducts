@@ -47,7 +47,7 @@ export default function Home() {
           <input
             className="input-search"
             type="text"
-            placeholder="Enter the name at reel"
+            placeholder="Enter the name in reel, post"
             onChange={inputHandler}
             value={inputSearch}
           />

@@ -1,9 +1,9 @@
 export const productList = [
   {
-    name: "Tape Measure",
-    afflink: "https://s.click.aliexpress.com/e/_9I3Sbf",
+    name: "Vegetable Cutter",
+    afflink: "https://s.click.aliexpress.com/e/_9HAWJV",
     imglink:
-      "//ae01.alicdn.com/kf/H3da6cd03d3994b44b336568b901219f06.jpg_350x350.jpg"
+      "//ae01.alicdn.com/kf/Sa6c5c928a8d34845b61cb77fa8216f73N.jpg_350x350.jpg"
   },
   {
     name: "Balloon Dog Statue",
@@ -11,6 +11,13 @@ export const productList = [
     imglink:
       "//ae01.alicdn.com/kf/H0f9af5659bed46538508de0fc8bdd0e6R.jpg_350x350.jpg"
   },
+  {
+    name: "Tape Measure",
+    afflink: "https://s.click.aliexpress.com/e/_9I3Sbf",
+    imglink:
+      "//ae01.alicdn.com/kf/H3da6cd03d3994b44b336568b901219f06.jpg_350x350.jpg"
+  },
+
   {
     name: "Cool Bulldog Statue",
     afflink: "https://s.click.aliexpress.com/e/_AFCh9B",
