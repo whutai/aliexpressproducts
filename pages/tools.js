@@ -112,6 +112,18 @@ export default function Home() {
                   <p>18+ Improve Sex Life</p>
                 </div>
               </div>
+              <div className="product-item">
+                <a
+                  href="https://ff80cgvlwzu12-amn-zfo0xq6y.hop.clickbank.net/?tid=TEDHT"
+                  target="_blank"
+                  className="afflink"
+                >
+                  <img src="./woodworking.png" className="imglink" alt="Toys" />
+                </a>
+                <div className="product-text">
+                  <p>16.000 Woodworking Plans</p>
+                </div>
+              </div>
               {listProduct.map((item, index) => (
                 <div className="product-item" key={index}>
                   <a href={item.afflink} target="_blank" className="afflink">

@@ -92,6 +92,12 @@ export const productList = [
 ];
 export const toolList = [
   {
+    name: "Newest Labor Saving",
+    afflink: "https://s.click.aliexpress.com/e/_Anh8Hh",
+    imglink:
+      "//ae01.alicdn.com/kf/Sf15c565cc2b6423f9059bbdf5b3bf4405.jpg_350x350.jpg"
+  },
+  {
     name: "Hinge Repair",
     afflink: "https://s.click.aliexpress.com/e/_AFYfgl",
     imglink:
