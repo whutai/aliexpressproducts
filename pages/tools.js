@@ -124,6 +124,22 @@ export default function Home() {
                   <p>16.000 Woodworking Plans</p>
                 </div>
               </div>
+              <div className="product-item">
+                <a
+                  href="https://s.click.aliexpress.com/e/_APZeET"
+                  target="_blank"
+                  className="afflink"
+                >
+                  <img
+                    src="//ae01.alicdn.com/kf/S8c3459182c1344f68377d425510dcde59.jpg_350x350.jpg"
+                    className="imglink"
+                    alt="Toys"
+                  />
+                </a>
+                <div className="product-text">
+                  <p>Cheap Woodworking tools</p>
+                </div>
+              </div>
               {listProduct.map((item, index) => (
                 <div className="product-item" key={index}>
                   <a href={item.afflink} target="_blank" className="afflink">

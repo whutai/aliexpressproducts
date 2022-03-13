@@ -99,6 +99,12 @@ export const productList = [
 ];
 export const toolList = [
   {
+    name: "Remover Sealant Smooth",
+    afflink: "https://s.click.aliexpress.com/e/_AYlPF1",
+    imglink:
+      "//ae01.alicdn.com/kf/He7b5a943e13f423ca2260261a40ff7dcP.jpg_350x350.jpg"
+  },
+  {
     name: "Egg Shaker",
     afflink: "https://s.click.aliexpress.com/e/_AD8SJ5",
     imglink:
