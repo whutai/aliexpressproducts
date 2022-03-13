@@ -70,7 +70,7 @@ export default function Home() {
           )}
         </div>
       </div>
-      <div>
+      <div className="container-list">
         {inputSearch ? (
           <div className="product-list">
             {filterData.map((item, index) => (
@@ -93,6 +93,20 @@ export default function Home() {
           </div>
         ) : (
           <div>
+            <div className="invite-friends">
+              <p>
+                Knock, knock! An AliExpress coupon gift is waiting for you.
+                Access my unique link to enjoy US $8.00 off the items from all
+                over the world!
+              </p>
+              <a
+                href="https://a.aliexpress.com/_ms6YXDW"
+                target="_blank"
+                className="install-app"
+              >
+                Install App
+              </a>
+            </div>
             <InfiniteScroll
               dataLength={listProduct.length}
               next={fetchMoreData}
@@ -109,7 +123,7 @@ export default function Home() {
                   <img src="./dogtraining.png" className="imglink" />
                 </a>
                 <div className="product-text">
-                  <p>Eliminate Bad Behavior Your dog</p>
+                  <p>Eliminate Bad Behavior Your Dog</p>
                 </div>
               </div>
               <div className="product-item">
