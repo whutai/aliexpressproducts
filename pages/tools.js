@@ -93,7 +93,7 @@ export default function Home() {
           </div>
         ) : (
           <div>
-            <div className="invite-friends">
+            {/* <div className="invite-friends">
               <p>
                 Knock, knock! An AliExpress coupon gift is waiting for you.
                 Access my unique link to enjoy US $8.00 off the items from all
@@ -106,7 +106,7 @@ export default function Home() {
               >
                 Install App
               </a>
-            </div>
+            </div> */}
             <InfiniteScroll
               dataLength={listProduct.length}
               next={fetchMoreData}
