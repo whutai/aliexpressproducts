@@ -1,5 +1,11 @@
 export const productList = [
   {
+    name: "Storage Rack",
+    afflink: "https://s.click.aliexpress.com/e/_ABnt5D",
+    imglink:
+      "//ae01.alicdn.com/kf/Hf3acaa7a96d84c0b8db083a2d6dea8eeL.jpg_350x350.jpg"
+  },
+  {
     name: "Vegetable Cutter",
     afflink: "https://s.click.aliexpress.com/e/_9HAWJV",
     imglink:
@@ -98,6 +104,12 @@ export const productList = [
   }
 ];
 export const toolList = [
+  {
+    name: "Stainless Steel",
+    afflink: "https://s.click.aliexpress.com/e/_9xgLSj",
+    imglink:
+      "//ae01.alicdn.com/kf/H898fb50783dd45a7b019df6c8c4b1784t.jpg_350x350.jpg"
+  },
   {
     name: "Remover Sealant Smooth",
     afflink: "https://s.click.aliexpress.com/e/_AYlPF1",
