@@ -123,7 +123,7 @@ export default function Home() {
                   <img src="./dogtraining.png" className="imglink" />
                 </a>
                 <div className="product-text">
-                  <p>Eliminate Bad Behavior Your Dog</p>
+                  <p>Eliminate Bad Behavior Your Dog's</p>
                 </div>
               </div>
               <div className="product-item">
