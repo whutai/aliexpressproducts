@@ -104,7 +104,7 @@ export default function Home() {
                 target="_blank"
                 className="install-app"
               >
-                Install App
+                Register
               </a>
             </div>
             <InfiniteScroll
