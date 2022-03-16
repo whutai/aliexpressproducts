@@ -47,7 +47,7 @@ export default function Home() {
           <input
             className="input-search"
             type="text"
-            placeholder="Enter product code, example: C3"
+            placeholder="Enter product code in reel, example: C3"
             onChange={inputHandler}
             value={inputSearch}
           />
