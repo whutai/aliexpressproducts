@@ -22,10 +22,7 @@ export default function Home() {
     if (inputSearch === "" && index) {
       return item;
     } else if (inputSearch !== "") {
-      return (
-        item.name.toLowerCase().includes(inputSearch) ||
-        item.code.toLowerCase().includes(inputSearch)
-      );
+      return item.name.toLowerCase().includes(inputSearch);
     }
   });
 
@@ -50,7 +47,7 @@ export default function Home() {
           <input
             className="input-search"
             type="text"
-            placeholder="Enter the name in reel, post"
+            placeholder="Enter product code, example: C3"
             onChange={inputHandler}
             value={inputSearch}
           />
