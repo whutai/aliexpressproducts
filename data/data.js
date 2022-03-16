@@ -1,5 +1,11 @@
 export const productList = [
   {
+    name: "C19",
+    afflink: "https://s.click.aliexpress.com/e/_9JcjM7",
+    imglink:
+      "//ae01.alicdn.com/kf/Ha8be716f2ee6410b8cb493c1ee1cd7cag.jpg_350x350.jpg"
+  },
+  {
     name: "C18",
     afflink: "https://s.click.aliexpress.com/e/_9Jlhu7",
     imglink:
