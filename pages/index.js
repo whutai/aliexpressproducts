@@ -95,16 +95,15 @@ export default function Home() {
           <div>
             <div className="invite-friends">
               <p>
-                Knock, knock! An AliExpress coupon gift is waiting for you.
-                Access my unique link to enjoy US $8.00 off the items from all
-                over the world!
+                Win up to US $200.00 every day #AliExpressbonus #BonusBuddies
+                You could win the jackpot too!
               </p>
               <a
-                href="https://a.aliexpress.com/_ms6YXDW"
+                href="https://a.aliexpress.com/_mM37oeG"
                 target="_blank"
                 className="install-app"
               >
-                Register Now
+                Join Now
               </a>
             </div>
             <InfiniteScroll
