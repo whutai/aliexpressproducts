@@ -1,103 +1,103 @@
 export const productList = [
   {
-    name: "Storage Rack",
+    name: "C17",
     afflink: "https://s.click.aliexpress.com/e/_ABnt5D",
     imglink:
       "//ae01.alicdn.com/kf/Hf3acaa7a96d84c0b8db083a2d6dea8eeL.jpg_350x350.jpg"
   },
   {
-    name: "Vegetable Cutter",
+    name: "C16",
     afflink: "https://s.click.aliexpress.com/e/_9HAWJV",
     imglink:
       "//ae01.alicdn.com/kf/Sa6c5c928a8d34845b61cb77fa8216f73N.jpg_350x350.jpg"
   },
   {
-    name: "Balloon Dog Statue",
+    name: "C15",
     afflink: "https://s.click.aliexpress.com/e/_98aDc5",
     imglink:
       "//ae01.alicdn.com/kf/H0f9af5659bed46538508de0fc8bdd0e6R.jpg_350x350.jpg"
   },
   {
-    name: "Tape Measure",
+    name: "C14",
     afflink: "https://s.click.aliexpress.com/e/_9I3Sbf",
     imglink:
       "//ae01.alicdn.com/kf/H3da6cd03d3994b44b336568b901219f06.jpg_350x350.jpg"
   },
 
   {
-    name: "Cool Bulldog Statue",
+    name: "C13",
     afflink: "https://s.click.aliexpress.com/e/_AFCh9B",
     imglink:
       "//ae01.alicdn.com/kf/H0dca35b67e4f4ed1b2299c36798618fdv.jpg_350x350.jpg"
   },
   {
-    name: "Color Bulldog Chihuahua",
+    name: "C12",
     afflink: "https://s.click.aliexpress.com/e/_98Uyp3",
     imglink:
       "//ae01.alicdn.com/kf/Hccd62472c6a844fd93507f7111034aaeI.jpg_350x350.jpg"
   },
   {
-    name: "Colorful Dachshund Dog",
+    name: "C11",
     afflink: "https://s.click.aliexpress.com/e/_9QCBRT",
     imglink:
       "//ae01.alicdn.com/kf/H067410ae9c9d42479123df77b5d841c83.jpg_350x350.jpg"
   },
   {
-    name: "French Bulldog Coin ",
+    name: "C10",
     afflink: "https://s.click.aliexpress.com/e/_AZ21nF",
     imglink:
       "//ae01.alicdn.com/kf/HLB19V.CNNTpK1RjSZFKq6y2wXXaZ.jpg_140x140.jpg"
   },
   {
-    name: "Cute Dog Sculpture",
+    name: "C9",
     afflink: "https://s.click.aliexpress.com/e/_ArMamd",
     imglink:
       "//ae01.alicdn.com/kf/Hb409d9e84ec14e56b98e549544022364l.jpg_350x350.jpg"
   },
   {
-    name: "Dog Statue Home Decor",
+    name: "C8",
     afflink: "https://s.click.aliexpress.com/e/_98lJNX",
     imglink:
       "//ae01.alicdn.com/kf/HTB1gdK_eEuF3KVjSZK9q6zVtXXa9.jpg_350x350.jpg"
   },
   {
-    name: "Resin Dog Statue",
+    name: "C7",
     afflink: "https://s.click.aliexpress.com/e/_AWElJ7",
     imglink:
       "//ae01.alicdn.com/kf/Hfdaa0d78e77d4673a8d6867f69200456T.jpg_350x350.jpg"
   },
   {
-    name: "Green Bulldog",
+    name: "C6",
     afflink: "https://s.click.aliexpress.com/e/_9jQMjX",
     imglink:
       "//ae01.alicdn.com/kf/Hc3bef6f878aa4f65aa3f87e1d24e0e23o.jpg_350x350.jpg"
   },
   {
-    name: "Pet Dog Bed",
+    name: "C5",
     afflink: "https://s.click.aliexpress.com/e/_9j4vsl",
     imglink:
       "//ae01.alicdn.com/kf/S5e41a22af5ac4150a7f6188fba280fcfW.jpg_350x350.jpg"
   },
   {
-    name: "Custom Doormat Personalized",
+    name: "C4",
     afflink: "https://s.click.aliexpress.com/e/_AZ8CCp",
     imglink:
       "//ae01.alicdn.com/kf/Hffd78b2443bd436587185be5fdeeae0bB.jpg_350x350.jpg"
   },
   {
-    name: "3D Printed Pitbull",
+    name: "C3",
     afflink: "https://s.click.aliexpress.com/e/_9QmIH3",
     imglink:
       "//ae01.alicdn.com/kf/Hde8d2519c5a44890a45cf4391340bd91B.jpg_350x350.jpg"
   },
   {
-    name: "Nylon Dog Collar",
+    name: "C2",
     afflink: "https://s.click.aliexpress.com/e/_9uz7T3",
     imglink:
       "//ae01.alicdn.com/kf/HTB1S83ea1L2gK0jSZPhq6yhvXXa5.jpg_350x350.jpg"
   },
   {
-    name: "Portable Electric Juicer",
+    name: "C1",
     afflink: "https://s.click.aliexpress.com/e/_9hwvLT",
     imglink:
       "//ae01.alicdn.com/kf/H67b630ad317b48b0a2b7940a6305b2c2k.jpg_350x350.jpg"
