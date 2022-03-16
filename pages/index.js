@@ -22,7 +22,10 @@ export default function Home() {
     if (inputSearch === "" && index) {
       return item;
     } else if (inputSearch !== "") {
-      return item.name.toLowerCase().includes(inputSearch);
+      return (
+        item.name.toLowerCase().includes(inputSearch) ||
+        item.code.toLowerCase().includes(inputSearch)
+      );
     }
   });
 

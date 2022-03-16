@@ -105,43 +105,43 @@ export const productList = [
 ];
 export const toolList = [
   {
-    name: "Stainless Steel",
+    name: "C7",
     afflink: "https://s.click.aliexpress.com/e/_9xgLSj",
     imglink:
       "//ae01.alicdn.com/kf/H898fb50783dd45a7b019df6c8c4b1784t.jpg_350x350.jpg"
   },
   {
-    name: "Remover Sealant Smooth",
+    name: "C6",
     afflink: "https://s.click.aliexpress.com/e/_AYlPF1",
     imglink:
       "//ae01.alicdn.com/kf/He7b5a943e13f423ca2260261a40ff7dcP.jpg_350x350.jpg"
   },
   {
-    name: "Egg Shaker",
+    name: "C5",
     afflink: "https://s.click.aliexpress.com/e/_AD8SJ5",
     imglink:
       "//ae01.alicdn.com/kf/H36e9461f420f453db3291dcb168ccde7i.png_350x350.png"
   },
   {
-    name: "Newest Labor Saving",
+    name: "C4",
     afflink: "https://s.click.aliexpress.com/e/_Anh8Hh",
     imglink:
       "//ae01.alicdn.com/kf/Sf15c565cc2b6423f9059bbdf5b3bf4405.jpg_350x350.jpg"
   },
   {
-    name: "Hinge Repair",
+    name: "C3",
     afflink: "https://s.click.aliexpress.com/e/_AFYfgl",
     imglink:
       "//ae01.alicdn.com/kf/S5e2794da3cbd431ca65d72141363b64b9.jpg_350x350.jpg"
   },
   {
-    name: "Moving Artifact Household",
+    name: "C2",
     afflink: "https://s.click.aliexpress.com/e/_9Qw0BB",
     imglink:
       "//ae01.alicdn.com/kf/Hba04ab4146264c39aa4d41932e5b8c9bQ.jpg_350x350.jpg"
   },
   {
-    name: "Mini Heat Sealer ",
+    name: "C1",
     afflink: "https://s.click.aliexpress.com/e/_AEu5g9",
     imglink:
       "//ae01.alicdn.com/kf/H0f1653dbf69b492e8ce32e6140de512fh.jpg_350x350.jpg"

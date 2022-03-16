@@ -47,7 +47,7 @@ export default function Home() {
           <input
             className="input-search"
             type="text"
-            placeholder="Enter the name in reel, post"
+            placeholder="Enter product code in reel, example: C5"
             onChange={inputHandler}
             value={inputSearch}
           />
@@ -114,46 +114,6 @@ export default function Home() {
               loader={<div class="dashed-loading"></div>}
               className="product-list"
             >
-              <div className="product-item">
-                <a
-                  href="https://s.click.aliexpress.com/e/_9j0ZaJ"
-                  target="_blank"
-                  className="afflink"
-                >
-                  <img src="./toy.png" className="imglink" alt="Toys" />
-                </a>
-                <div className="product-text">
-                  <p>18+ Improve Sex Life</p>
-                </div>
-              </div>
-              <div className="product-item">
-                <a
-                  href="https://ff80cgvlwzu12-amn-zfo0xq6y.hop.clickbank.net/?tid=TEDHT"
-                  target="_blank"
-                  className="afflink"
-                >
-                  <img src="./woodworking.png" className="imglink" alt="Toys" />
-                </a>
-                <div className="product-text">
-                  <p>16.000 Woodworking Plans</p>
-                </div>
-              </div>
-              <div className="product-item">
-                <a
-                  href="https://s.click.aliexpress.com/e/_APZeET"
-                  target="_blank"
-                  className="afflink"
-                >
-                  <img
-                    src="//ae01.alicdn.com/kf/S8c3459182c1344f68377d425510dcde59.jpg_350x350.jpg"
-                    className="imglink"
-                    alt="Toys"
-                  />
-                </a>
-                <div className="product-text">
-                  <p>Cheap Woodworking Tools, Good Quality</p>
-                </div>
-              </div>
               {listProduct.map((item, index) => (
                 <div className="product-item" key={index}>
                   <a href={item.afflink} target="_blank" className="afflink">

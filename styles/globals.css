@@ -114,3 +114,7 @@ input {
   color: blue;
   font-weight: 500;
 }
+.input-search {
+  width: 250px;
+  font-size: 12px;
+}
