@@ -117,6 +117,48 @@ export const productList = [
 ];
 export const toolList = [
   {
+    name: "C17",
+    afflink: "https://s.click.aliexpress.com/e/_ArPq5p",
+    imglink:
+      "//ae01.alicdn.com/kf/Hde9dab83f56241b2ae6709c5db32a5306.jpeg_350x350.jpeg"
+  },
+  {
+    name: "C16",
+    afflink: "https://s.click.aliexpress.com/e/_ALcLtz",
+    imglink:
+      "//ae01.alicdn.com/kf/H0c7c059c7eba40f482b30ee3b058f796h.png_350x350.png"
+  },
+  {
+    name: "C15",
+    afflink: "https://s.click.aliexpress.com/e/_AaQGm3",
+    imglink:
+      "//ae01.alicdn.com/kf/S2ad418b52bd943ed81d4680c0307ca2a5.jpg_350x350.jpg"
+  },
+  {
+    name: "C14",
+    afflink: "https://s.click.aliexpress.com/e/_A857ll",
+    imglink:
+      "//ae01.alicdn.com/kf/H34aa186c1e68445d9ce38f2817d11295T.jpg_350x350.jpg"
+  },
+  {
+    name: "C13",
+    afflink: "https://s.click.aliexpress.com/e/_A5RbCT",
+    imglink:
+      "//ae01.alicdn.com/kf/Ha8c0b4d758c24349a7d3497aa4d69613L.jpg_350x350.jpg"
+  },
+  {
+    name: "C12",
+    afflink: "https://s.click.aliexpress.com/e/_9fRZZl",
+    imglink:
+      "//ae01.alicdn.com/kf/H0caa001485d141c7b59607b760c6867bV.jpg_350x350.jpg"
+  },
+  {
+    name: "C11",
+    afflink: "https://s.click.aliexpress.com/e/_A4xypp",
+    imglink:
+      "//ae01.alicdn.com/kf/S4a4997ebd95d450185e2a5e8c046afd6n.jpg_350x350.jpg"
+  },
+  {
     name: "C10",
     afflink: "https://s.click.aliexpress.com/e/_AZPPKR",
     imglink:
